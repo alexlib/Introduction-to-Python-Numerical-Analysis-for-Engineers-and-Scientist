@@ -123,3 +123,4 @@ ENV/
 
 # mypy
 .mypy_cache/
+uv.lock
